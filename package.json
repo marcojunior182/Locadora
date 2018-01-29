@@ -1,0 +1,19 @@
+{
+  "name": "locadora",
+  "version": "1.0.0",
+  "description": "Criação de uma locadora de filmes online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcojunior182/Locadora.git"
+  },
+  "author": "Marco Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcojunior182/Locadora/issues"
+  },
+  "homepage": "https://github.com/marcojunior182/Locadora#readme"
+}
